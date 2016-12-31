@@ -1,9 +1,30 @@
 ---
 # Overwrite Tachyons here. Don't go overboard!
 ---
-.story {
+//Fonts
+.regular {
+  font-family: "Berlingske Serif Regular",serif;
+	font-weight: normal;
+	font-style: normal;
+}
+.bold {
+  font-family: "Berlingske Serif DemiBold",serif;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.neutral {
+  font-family: "Neutral Std Regular",sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.vertical-text {
   transform: rotate(270deg);
 }
-.story div {
-  font-size: 5em;
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
