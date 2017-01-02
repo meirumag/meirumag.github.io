@@ -20,11 +20,23 @@
 }
 
 .f0 {
-  font-size: 5rem;
+  font-size: 4.5rem;
+}
+@media (min-width:30em){
+.f00-ns{
+  font-size: 6rem;
+}
 }
 span{
 }
 .vertical-text {
-  transform: rotate(270deg);
+  /*transform: rotate(270deg);*/
+  writing-mode: vertical-lr;
+  direction: rtl;
+  line-height:1;
+  margin-top:1rem;
+}
+.description {
+  margin-top:8rem;
 
 }
