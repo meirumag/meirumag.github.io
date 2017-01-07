@@ -2,7 +2,7 @@
 # Overwrite Tachyons here. Don't go overboard!
 ---
 //Fonts
-.regular {
+.serif {
   font-family: "Berlingske Serif Regular",serif;
 	font-weight: normal;
 	font-style: normal;
@@ -13,7 +13,7 @@
 	font-style: normal;
 }
 
-.neutral {
+.sans {
   font-family: "Neutral Std Regular",sans-serif;
 	font-weight: normal;
 	font-style: normal;
@@ -25,12 +25,15 @@
 .f00{
   font-size:6rem;
 }
+// Responsive
+
 @media (min-width:30em){
 .f00-ns{
   font-size: 6rem;
 }
+.left-auto-ns{
+  left: auto;
 }
-span{
 }
 .vertical-text {
   writing-mode: vertical-lr;
