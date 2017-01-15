@@ -23,18 +23,26 @@
   font-size: 4rem;
 }
 .f00{
-  font-size:6rem;
+  font-size: 10vh;
 }
+
+#meiru-logo {
+  background-image: url("images/logo-gaus.png");
+  height:100px;
+
+}
+
 // Responsive
 
 @media (min-width:30em){
 .f00-ns{
-  font-size: 6rem;
+  font-size: 12vh;
 }
 .left-auto-ns{
   left: auto;
 }
 }
+
 .vertical-text {
   writing-mode: vertical-lr;
   -webkit-writing-mode: vertical-lr;
