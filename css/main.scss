@@ -27,8 +27,9 @@
 }
 
 #meiru-logo {
-  background-image: url("images/logo-gaus.png");
-  height:100px;
+top:-120px;
+left:32px;
+z-index: -1;
 
 }
 
@@ -38,7 +39,7 @@
 .f00-ns{
   font-size: 12vh;
 }
-.left-auto-ns{
+.left-auto-ns {
   left: auto;
 }
 }
@@ -52,5 +53,8 @@
 }
 .description {
   margin-top:8rem;
-
 }
+
+.z-0 { z-index: 0; }
+.z-1 { z-index: 1; }
+.z-2 { z-index: 2; }
