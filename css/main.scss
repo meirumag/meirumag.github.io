@@ -1,13 +1,20 @@
 ---
 # Overwrite Tachyons here. Don't go overboard!
 ---
+//Colors
+.bg-snow{
+  background-color:#FFF6F6;
+}
+.snow{
+  color: #FFF5F5;
+}
 //Fonts
 .serif {
   font-family: "Berlingske Serif Regular",serif;
 	font-weight: normal;
 	font-style: normal;
 }
-.bold {
+.serif-bold {
   font-family: "Berlingske Serif DemiBold",serif;
 	font-weight: normal;
 	font-style: normal;
@@ -25,12 +32,13 @@
 .f00{
   font-size: 10vh;
 }
-
+//Gaus logo
 #meiru-logo {
-  top: -10%;
-  right: 60%;
+  top: -20%;
+  right:55%;
   z-index: -1;
-  height: 100%;
+  height: 120%;
+  width: auto;
 
 }
 
