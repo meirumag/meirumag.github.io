@@ -3,12 +3,12 @@ layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="tc">
-    <img src="assets/vector-han.png" alt="Han-profile" class="">
-    <h1 class="di f0 tc serif" itemprop="name headline">{{ page.title }}</h1>
+  <header class="mt4 flex items-center justify-center">
+    <img src="{{page.image}}" alt="{{page.title}}-profile">
+    <h1 class="di f0 tc serif mb3 nl1 relative" itemprop="name headline">{{ page.title }}</h1>
   </header>
 
-  <div class="center measure-wide f5 pv5 lh-copy ph2 serif" itemprop="articleBody">
+  <div class="center measure-wide f5 pv5 lh-copy serif" itemprop="articleBody">
     {{ content }}
   </div>
 
