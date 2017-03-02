@@ -8,14 +8,11 @@ p > img{
 
 @import
   "variables.scss",
-  "typography.scss"
+  "typography.scss",
+  "colors.scss"
 
 ;
 
-//Colors
-.bg-snow { background-color: $snow;}
-
-.snow { color: $snow; }
 
 
 //Gaus logo
@@ -32,11 +29,13 @@ p > img{
 .nl1{
   margin-left: -1em;
 }
+
 // Responsive
 
 @media (min-width:30em){
 .f00-ns{
-  font-size: 12vh;
+  font-size: 14vh;
+  margin-top: -14vh;
 }
 .left-auto-ns {
   left: auto;
@@ -47,8 +46,6 @@ p > img{
   writing-mode: vertical-lr;
   -webkit-writing-mode: vertical-lr;
   direction: rtl;
-  line-height:1;
-  margin-top:1rem;
 }
 .description {
   margin-top:8rem;
