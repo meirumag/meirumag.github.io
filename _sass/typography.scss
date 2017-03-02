@@ -1,0 +1,33 @@
+//Typography
+.serif {
+  font-family: $serif;
+	font-weight: normal;
+	font-style: normal;
+}
+.serif-bold {
+  font-family: $serif-bold;
+	font-weight: normal;
+	font-style: normal;
+}
+
+.sans-serif {
+  font-family: $sans-serif;
+	font-weight: normal;
+	font-style: normal;
+}
+//Typeface Hierarchy
+.f0 {
+  font-size: 4rem;
+}
+.f00{
+  font-size: 10vh;
+}
+
+.measure-xl {
+  max-width: 40rem;
+}
+.lh-xl{
+  line-height: 1.9
+}
+//Heading Font-Family
+  

@@ -5,40 +5,19 @@ p > img{
   max-width:100%;
 }
 
-//Variables
-$snow: #FFF6F6;
+
+@import
+  "variables.scss",
+  "typography.scss"
+
+;
 
 //Colors
-.bg-snow {
-  background-color: $snow;
-}
-.snow{
-  color: $snow;
-}
-//Fonts
-.serif {
-  font-family: "Berlingske Serif Regular",serif;
-	font-weight: normal;
-	font-style: normal;
-}
-.serif-bold {
-  font-family: "Berlingske Serif DemiBold",serif;
-	font-weight: normal;
-	font-style: normal;
-}
+.bg-snow { background-color: $snow;}
 
-.sans {
-  font-family: "Neutral Std Regular",sans-serif;
-	font-weight: normal;
-	font-style: normal;
-}
+.snow { color: $snow; }
 
-.f0 {
-  font-size: 4rem;
-}
-.f00{
-  font-size: 10vh;
-}
+
 //Gaus logo
 #meiru-logo {
   top: -20%;
