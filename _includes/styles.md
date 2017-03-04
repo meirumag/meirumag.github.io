@@ -3,7 +3,7 @@
 {% endcapture %}
 
 {% capture image-md %}
-<div class="mv5" markdown="1">
+<div markdown="1">
 {% endcapture %}
 
 {% capture end_block %}

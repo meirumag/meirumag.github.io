@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="bg-gradient">
+<article class="mw8 center" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="mt4 mb6 flex items-center justify-center">
-    <img src="{{page.image}}" alt="{{page.title}}-profile">
-    <h1 class="di f0 tc serif mb3 nl1 relative serif-bold" itemprop="name headline">{{ page.title }}</h1>
+  <header class="pt4 mb6 flex items-center justify-center">
+    <img class="mt4" src="{{page.image}}" alt="{{page.title}}-profile">
+    <h1 class="di f0 tc serif mb2 nl1 relative serif-bold" itemprop="name headline">{{ page.title }}</h1>
   </header>
 
-  <div class="" itemprop="articleBody">
+  <div itemprop="articleBody">
     {{ content }}
   </div>
 
 </article>
+</div>
