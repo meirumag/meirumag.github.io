@@ -4,6 +4,7 @@ version: "v1"
 description: "A magazine series about asian-americans growing up in western culture"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
+twitter_username: meirumag
 permalink: :title
 email: hi@meirumag.com
 twitter_username: meirumag
