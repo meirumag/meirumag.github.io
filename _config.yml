@@ -1,36 +1,14 @@
-<<<<<<< HEAD
 # Site settings
 title: Meiru Magazine
 version: "v1"
 description: "A magazine series about asian-americans growing up in western culture"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: meirumag
 permalink: :title
-=======
----
-title: Meiru - asian-americans growing up in western culture
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 email: hi@meirumag.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
->>>>>>> origin/master
-
-'
-baseurl: 
-url: 
 twitter_username: meirumag
 github_username: jekyll
 markdown: kramdown
-<<<<<<< HEAD
 
 exclude: [node_modules, gulpfile.js]
 
@@ -39,10 +17,3 @@ exclude: [node_modules, gulpfile.js]
 jekyll_get:
   data: team
   json: 'https://18f.gsa.gov/hub/api/team/'
-=======
-gems:
-- jekyll-feed
-exclude:
-- Gemfile
-- Gemfile.lock
->>>>>>> origin/master
