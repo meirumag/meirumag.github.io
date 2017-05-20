@@ -1,17 +1,25 @@
 # Site settings
-title: Meiru Meiru Meiru Meiru Meiru Meiru Meiru Meiru Meiru 
+title: Meiru Meiru Meiru Meiru Meiru Meiru Meiru Meiru Meiru
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 version: "v1"
 description: "A magazine series about asian-americans growing up in western culture"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: meirumag
-permalink: :title
-email: hi@meirumag.com
-twitter_username: meirumag
 github_username: jekyll
+email: hi@meirumag.com
 markdown: kramdown
-
-exclude: [node_modules, gulpfile.js]
+permalink: :title
+gems:
+  -jekyll-feed
+exclude: [node_modules, gulpfile.js, Gemfile, Gemfile.lock]
 
 # Jekyll Get
 

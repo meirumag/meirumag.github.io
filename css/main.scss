@@ -1,5 +1,6 @@
 ---
-# Overwrite Tachyons here. Don't go overboard!
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
 ---
 @import
   "variables.scss",
