@@ -1,0 +1,12 @@
+// Colors
+@each $id, $color in $color-palette {
+  .#{$id} { color: nth($color, 1); }
+  .#{$id}--high { color: nth($color, 2); }
+  .#{$id}--low { color: nth($color, 3); }
+  .bg-#{$id} { background-color: nth($color, 1); }
+  .bg-#{$id}--high { background-color: nth($color, 2); }
+  .bg-#{$id}--low { background-color: nth($color, 3); }
+  .fill-#{$id} { fill: nth($color, 1); }
+  .fill-#{$id}--high { fill: nth($color, 2); }
+  .fill-#{$id}--low { fill: nth($color, 3); }
+}

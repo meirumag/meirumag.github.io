@@ -1,0 +1,22 @@
+//Color Palette
+$coralpink: #FD809B;
+  $coralpink-high: #F1335E;
+  $coralpink-low: #fAC8D2;
+
+$blu: #249CDF;
+  $blu-high: #295EBA;
+  $blu-low: #DFF6FE;
+
+$gold:#EDFED0;
+
+$color-palette: (
+  coralpink:($coralpink, $coralpink-high, $coralpink-low),
+  blu:($blu, $blu-high, $blu-low),
+  );
+
+
+
+//Typography
+$serif: "Berlingske Serif",serif;
+$serif-bold:  "Berlingske Serif DemiBold",serif;
+$sans-serif: "Neutral Std Regular",sans-serif;
