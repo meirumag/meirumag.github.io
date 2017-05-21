@@ -1,0 +1,45 @@
+---
+title: Jessica M.
+date: 2017-05-21 00:10:00 Z
+---
+
+## Meiru Mag: Hey Jessica! Let’s have you start by telling us a bit about yourself and where you grew up.
+
+Jessica: My name is Jessica. I’m 24 years old, and I’ve been out of college for about two years now. I’m an engineer here in the South Bay. I like to do artsy things, and I’m interested in languages. I like cultures. I grew up in Southern California and spent most of my life there. I went to college here in the South Bay and went back home for a year after college.
+
+## M: How do you identify in terms of ethnicity?
+J: My mom is ethnically Chinese and culturally Indonesian. My dad is African American. So, I tend to identify as Indonesian and African American. It’s one of the first ways that I identify myself whenever there’s a “What are you?” conversation. I usually first ask back, “Can you guess what I am?” And then people are normally surprised when I say half-Chinese or half-Asian. It’s something that I’ve talked about a lot with people. People are always curious:
+
+* Oh, how was it growing with two different culturally different parents?
+
+* How did they meet?
+
+* Is your mom a “tiger mom”?
+
+My ethnicity is just another instance of talking about how I grew up. I don’t really find it weird or different.
+
+## M: How have those conversations felt for you, now and beforehand?
+J: When I was growing up, people always thought it was a cool thing, like I had the best of both worlds.
+
+* Oh you’re really smart, you got that from your Asian side.
+
+* Oh you do sports like track, it makes sense because you’re black, too.
+
+And I roll with it, but it’s not why I’m doing those things. Those qualities are not necessarily related to race at all. But people otherwise  seem to react pretty positively to me being mixed race.
+
+## M: Did those comments come from peers or adults?
+J: They mainly came from peers. In elementary school, that stuff didn’t really register among kids. In middle school, people started realizing to the  oh you’re half this, half that, that’s cool. Those comments about sports and being smart were from high school times. In college, people asked more in-depth questions.
+
+* Oh what exactly is Indonesian culture?
+
+* Do you speak Indonesian? Do you speak Chinese?
+
+People would be interested. I’ve had very few bad experiences with people, in regards to racism, fortunately.
+
+## M: How have you seen your mom and dad communicate their cultures to each other?
+J: My dad learned a lot about Indonesian culture by eating the food. My mom would cook for us a lot when I was growing up. When my mom was a Seventh Day Adventist, my dad would come with us to church, so he was able to get to know a lot of the community as well.
+
+My mom moved to America from Indonesia when she was thirty years old. And then soon after, she started her life and had a family. That was actually a big transition for her. My mom’s introduction to America was simply being in America and having incidents with cultural differences, such as discovering a lot of the rules in America. In Indonesia when she was growing up,, there weren’t as many laws, or the laws weren’t as strict. My impression from her and my dad’s early marriage stories were along the lines of her trying to do something and then my dad would be like, no you can’t do that. And she’s like, sure you can. And he’d be like, not in America!
+
+## M: What did she try to do?
+J: For instance, there is a certain process to being able to drive. First, you’d need a driver’s license, and then you’d have to pass a driving test. But my mom would just drive. And my dad’s like, wait you need to—
