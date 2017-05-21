@@ -17,8 +17,6 @@ github_username: jekyll
 email: hi@meirumag.com
 markdown: kramdown
 permalink: :title
-gems:
-  -jekyll-feed
 exclude: [node_modules, gulpfile.js, Gemfile, Gemfile.lock]
 
 # Jekyll Get
