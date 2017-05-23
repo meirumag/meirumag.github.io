@@ -1,4 +1,4 @@
-# Site settings
+---
 title: Meiru Meiru Meiru Meiru Meiru Meiru Meiru Meiru Meiru
 timezone: UTC
 collections:
@@ -8,20 +8,20 @@ collections:
   uploads:
     title: Uploads
     output: true
-version: "v1"
-description: "A magazine series about asian-americans growing up in western culture"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+version: v1
+description: A magazine series about asian-americans growing up in western culture
+baseurl: ''
+url: ''
 twitter_username: meirumag
 github_username: jekyll
 email: hi@meirumag.com
 markdown: kramdown
 permalink: :title
-
-exclude: [node_modules, gulpfile.js, Gemfile, Gemfile.lock]
-
-# Jekyll Get
-
+exclude:
+- node_modules
+- gulpfile.js
+- Gemfile
+- Gemfile.lock
 jekyll_get:
   data: team
-  json: 'https://18f.gsa.gov/hub/api/team/'
+  json: https://18f.gsa.gov/hub/api/team/

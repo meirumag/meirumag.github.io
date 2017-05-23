@@ -18,9 +18,14 @@ p{
 	font-weight: normal;
 	font-style: normal;
 }
-//Typeface Hierarchy
+//Additional Type Scale
 .f0 {
   font-size: 4rem;
+}
+@media (min-width:30em){
+.f0-l {
+  font-size: 4rem;
+}
 }
 .f00{
   font-size: 10vh;
