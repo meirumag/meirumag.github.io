@@ -11,7 +11,7 @@ collections:
 version: v1
 description: A magazine series about asian-americans growing up in western culture
 baseurl: 
-url:
+url: 
 twitter_username: meirumag
 github_username: jekyll
 email: hi@meirumag.com
