@@ -10,13 +10,13 @@ collections:
     output: true
 version: v1
 description: A magazine series about asian-americans growing up in western culture
-baseurl: 
-url: 
+baseurl:
+url:
 twitter_username: meirumag
 github_username: jekyll
 email: hi@meirumag.com
 markdown: kramdown
-permalink: title
+permalink: :/title
 exclude:
 - node_modules
 - gulpfile.js

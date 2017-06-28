@@ -3,7 +3,11 @@ title: Jessica M.
 date: 2017-05-21 00:10:00 Z
 layout: post
 ---
+{% include styles.md %}
+<!--The output for this page is title.hml idk why -->
+<!-- oh its because of config doh, fix that last -->
 
+{{ writing }}
 ## Meiru Mag: Hey Jessica! Let’s have you start by telling us a bit about yourself and where you grew up.
 
 Jessica: My name is Jessica. I’m 24 years old, and I’ve been out of college for about two years now. I’m an engineer here in the South Bay. I like to do artsy things, and I’m interested in languages. I like cultures. I grew up in Southern California and spent most of my life there. I went to college here in the South Bay and went back home for a year after college.
@@ -44,3 +48,5 @@ My mom moved to America from Indonesia when she was thirty years old. And then s
 
 ## M: What did she try to do?
 J: For instance, there is a certain process to being able to drive. First, you’d need a driver’s license, and then you’d have to pass a driving test. But my mom would just drive. And my dad’s like, wait you need to—
+
+{{end_block}}
