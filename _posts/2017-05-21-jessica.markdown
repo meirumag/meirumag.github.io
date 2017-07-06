@@ -2,8 +2,9 @@
 title: Jessica M.
 date: 2017-05-21 00:10:00 Z
 layout: post
-hero: /jessica/jessica_hero.png
+hero: "/jessica/jessica_hero.png"
 ---
+
 {% include styles.md %}
 <!--The output for this page is title.hml idk why -->
 <!-- oh its because of config doh, fix that last -->
