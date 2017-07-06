@@ -1,9 +1,9 @@
 {% capture writing %}
-<div class="serif lh-title f4" markdown="1">
+<div class="center ph2 ph0-ns mb3 measure-wide serif lh-title f5 f4-ns " markdown="1">
 {% endcapture %}
 
-{% capture image-md %}
-<div markdown="1">
+{% capture image %}
+<div class="mw8 center tc" markdown="1">
 {% endcapture %}
 
 {% capture end_block %}

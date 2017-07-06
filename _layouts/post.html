@@ -3,16 +3,19 @@ layout: default
 ---
 
 <div class="mh3 debug">
-<article class="center bg-lightest-blue br4" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="center tc">
-    <h1 class="title pt4" itemprop="name headline">{{ page.title }}</h1>
-  </header>
-  <img src="" alt="">
-
-  <div class="mw8 ph3 measure-wide" itemprop="articleBody">
+  <article class="center bg-lightest-blue br4" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="mw8 center">
+      <header class="tc">
+      <h1 class="title pt4" itemprop="name headline">
+        {{ page.title }}
+      </h1>
+    </header>
+    <div class="tc">
+      <img class="w-100 w-80-ns" src="assets/{{ page.hero }}" alt="jessica hero image">
+    </div>
+  </div>
+  <div class="center" itemprop="articleBody">
     {{ content }}
   </div>
-
-</article>
+  </article>
 </div>

@@ -2,6 +2,7 @@
 title: Jessica M.
 date: 2017-05-21 00:10:00 Z
 layout: post
+hero: /jessica/jessica_hero.png
 ---
 {% include styles.md %}
 <!--The output for this page is title.hml idk why -->
@@ -22,7 +23,13 @@ J: My mom is ethnically Chinese and culturally Indonesian. My dad is African Ame
 * Is your mom a “tiger mom”?
 
 My ethnicity is just another instance of talking about how I grew up. I don’t really find it weird or different.
+{{end_block}}
 
+{{image}}
+<img class="w-80" src="assets/jessica/jessica_grass.jpg" alt="jessica on grass">
+{{end_block}}
+
+{{writing}}
 ## M: How have those conversations felt for you, now and beforehand?
 J: When I was growing up, people always thought it was a cool thing, like I had the best of both worlds.
 

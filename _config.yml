@@ -16,7 +16,7 @@ twitter_username: meirumag
 github_username: jekyll
 email: hi@meirumag.com
 markdown: kramdown
-permalink: :/title
+permalink: /title
 exclude:
 - node_modules
 - gulpfile.js
