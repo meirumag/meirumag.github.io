@@ -1,5 +1,5 @@
 ---
-title: Jessica M.
+title: Jessica M
 date: 2017-05-21 00:10:00 Z
 permalink: "/jessica/"
 hero: jessica_hero.png
