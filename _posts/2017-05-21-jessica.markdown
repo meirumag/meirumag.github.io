@@ -29,9 +29,6 @@ J: My mom is ethnically Chinese and culturally Indonesian. My dad is African Ame
 My ethnicity is just another instance of talking about how I grew up. I don’t really find it weird or different.
 {{end_block}}
 
-{{image}}
-<img class="w-80" src="/uploads/jessica_grass.jpg" alt="jessica on grass">
-{{end_block}}
 
 {{writing}}
 
@@ -81,7 +78,11 @@ My dad would actually just take care of most of those things though, so it was h
 ## M: Going back to your conversations with peers about your ethnic background, when was the first instance that you recognized your ethnicity as distinct from other people?
 
 J: I’d say maybe middle school. Before that, it was normal for me to move throughout these spheres: my dad’s side of the family, people from school, people from church, and my mom’s friends. It was just normal. And then, in middle school, I saw other people who were mixed race. I was like “ooh, that’s like…me.” They were mixed with different ethnicities and, more specifically, different types of Asians. Saying “half-Asian” was not enough. So I’d say “Oh yeah, I’m half-Indonesian.” And then I think I had a conversation with my mom at one point where I was telling her about this. And she was like “oh, we’re Chinese, too” and I was like “wait what?” I never registered that my mom was ethnically Chinese. I thought she was an Indonesian born in Indonesia. So it was middle school that I found out that my mom was ethnically Chinese.
-
+{{end_block}}
+{{image}}
+<img class="w-80" src="/uploads/jessica_grass.jpg" alt="jessica on grass">
+{{end_block}}
+{{writing}}
 ## M: Yeah, it’s complex. My aunt is Indonesian, and I didn’t even know Indonesia was a country until my mom had to explain it to me. I had thought that Indonesia was a part of China because she’s my aunt. She lives in Hong Kong now, and gets a lot of discrimination because her accent stands out.
 
 J: That is one of the things that I liked about Indonesia. They celebrated differences. If you were different, they wouldn’t say “oh that’s bad.” They would be like “oh that’s pretty cool.” When I was in China, I got a lot of stares, but maybe it’s because of the area that I was in. I was in Shanghai and Beijing, big populous cities, but for most of the time I was in southern China. I just generally felt like I was under a microscope or a zoo exhibit. I was just walking beside a lady, and she took a video of me. I didn’t get that vibe when I was in Indonesia. I think people will stare anywhere, but in general, maybe it is how I interpret the culture as well. In terms of my family noticing that I’m not a native Indonesian nor Chinese and that I’m part black, it wasn’t even a thing. In a lot of families, they care about marrying within your culture, within your race, but it was really nice to know that my family just cared whether I was a good person. My hair is curly, so people are like “oh my gosh, I’ve never seen hair like this,” and they would be like, that’s so cool!”
