@@ -12,21 +12,18 @@ layout: post
 
 {{ writing }}
 
-## Meiru Mag: Hey Jessica! Let’s have you start by telling us a bit about yourself and where you grew up.
+## Meiru Mag: Hey Jessica. Let’s have you start by telling us a bit about yourself and where you grew up.
 
-Jessica: My name is Jessica. I’m 24 years old, and I’ve been out of college for about two years now. I’m an engineer here in the South Bay. I like to do artsy things, and I’m interested in languages. I like cultures. I grew up in Southern California and spent most of my life there. I went to college here in the South Bay and went back home for a year after college.
+Jessica: My name is Jessica. I’m 24 years old, and I’ve been out of college for about two years now. I’m an engineer here in the South Bay. I like to do artsy things, and I’m interested in languages. I like cultures. I grew up in Southern California and spent most of my life there. I went to college here in the South Bay and went back home for a year after college. 
 
 ## M: How do you identify in terms of ethnicity?
 
 J: My mom is ethnically Chinese and culturally Indonesian. My dad is African American. So, I tend to identify as Indonesian and African American. It’s one of the first ways that I identify myself whenever there’s a “What are you?” conversation. I usually first ask back, “Can you guess what I am?” And then people are normally surprised when I say half-Chinese or half-Asian. It’s something that I’ve talked about a lot with people. People are always curious:
 
-Oh, how was it growing with two different culturally different parents?
-
+How was it growing with two different culturally different parents?
 How did they meet?
-
 Is your mom a “tiger mom”?
 
-My ethnicity is just another instance of talking about how I grew up. I don’t really find it weird or different.
 
 
 {{end_block}}
@@ -35,13 +32,12 @@ My ethnicity is just another instance of talking about how I grew up. I don’t 
 
 ## M: How have those conversations felt for you, now and beforehand?
 
-J: When I was growing up, people always thought it was a cool thing, like I had the best of both worlds.
+J:  When I was growing up, people always thought it was a cool thing, like I had the best of both worlds. 
 
-Oh you’re really smart, you got that from your Asian side.
+You’re really smart, you got that from your Asian side. 
+You do sports like track, it makes sense because you’re black, too. 
 
-Oh you do sports like track, it makes sense because you’re black, too.
-
-And I roll with it, but it’s not why I’m doing those things. Those qualities are not necessarily related to race at all. But people otherwise  seem to react pretty positively to me being mixed race.
+And I roll with it, but it’s not why I’m doing those things. Those qualities are not necessarily related to race at all. But people otherwise  seem to react pretty positively to me being mixed race. 
 
 ## M: Did those comments come from peers or adults?
 
@@ -112,15 +108,15 @@ J: Partially, but also a cousin of mine was having a wedding. A lot of family wa
 
 ## M: After seeing the difference for your mom being in the states and Indonesia, is your relationship now changed?
 
-J: It hasn’t changed too much, but on my side, I understand her more. If anything has changed, it’s because I’ve fully moved out of the house. That’s more of a transition for the parents’ relationship with their daughter in not having to financially support her. But this trip was really good because we have extended family in Indonesia and on the east coast. Them knowing that we had travelled to Indonesia, gave us visibility. After this trip, my mom was reminded that, yeah I have people here, there are people here, I can visit them, I can keep in touch. It gave her a social motivation to keep reaching out to family members here in the United States. Last month, we had some Indonesian relatives visit New Jersey, which is where my my mom’s sister lives, so we visited them. Now my mom has been more family-oriented, and now I’ve seen more of my family. We’re getting more face time. So I wouldn’t say that my relationship with my mom changed so much as my relationship and position in my family has changed. And changed for the better.
+J: The relationship hasn’t changed too much, but on my side, I understand her more. If anything has changed, it’s because I’ve fully moved out of the house. That’s more of a transition for the parents’ relationship with their daughter in not having to financially support her. But this trip was really good because we have extended family in Indonesia and on the east coast. Them knowing that we had travelled to Indonesia, gave us visibility. After this trip, my mom was reminded that, yeah I have people here, there are people here, I can visit them, I can keep in touch. It gave her a social motivation to keep reaching out to family members here in the United States. Last month, we had some Indonesian relatives visit New Jersey, which is where my my mom’s sister lives, so we visited them. Now my mom has been more family-oriented, and now I’ve seen more of my family. We’re getting more face time. So I wouldn’t say that my relationship with my mom changed so much as my relationship and position in my family has changed. And changed for the better.
 
-## M: You’ve had the opportunity to travel abroad in different Asian countries. Do you feel like that affects the consciousness of your identity, being here in the Bay Area now?
+## M: You’ve had the opportunity to travel to different Asian countries. Do you feel like that affects the consciousness of your identity, being here in the Bay Area now?
 
-J: It doesn’t change my identity but I think it does change how conscious I am about my identity in different situations. Somehow, my identity is defined in this way but now that I’ve been to these three countries in the last four years, like somehow there’s more depth to my identity. With every trip I take, I learn about another culture, but I also learn how to compare and contrast cultures and have a more nuanced perception of my own identity and an appreciation for others’ identities. It’s very complex. There are people who grow up in one country and then straight up move to another; that’s one identity. There are people who grow up in one country, learn English for the most of their life, and then move to America. That’s another thing, where you have more of a transition. And then there are people who have both parents who are Chinese for instance, and they’re born in America. That’s a different experience. One parent who’s Chinese, one who’s American, and then that’s another experience. I can just appreciate all these different experiences.
+J: It doesn’t change my identity but I think it does change how conscious I am about my identity in different situations. My identity is defined, but now that I’ve been to these three countries in the last four years, somehow there’s more depth to my identity. With every trip I take, I learn about another culture, but I also learn how to compare and contrast cultures. I gain a more nuanced perception of my own identity and an appreciation for others’ identities. It’s very complex. There are people who grow up in one country and then straight up move to another; that’s one type of story. Then there are people who grow up in one country, learn English for the most of their life, and then move to America. That’s another thing, where one has more of a transition. And then there are people who have both parents who are Chinese for instance, and they’re the first-born in America. That’s a different from someone with one parent who’s Chinese, and another one who’s American. I can just appreciate all these different experiences and how they exist.
 
-## M: When people say “first-generation,” that can be mean different things.
+## M: It can mean so many different things when people say “first-generation”.
 
-J: And it makes a difference if you know the language of that culture, that country, as well.
+J: And it makes a difference depending on whether you know the language of that culture or country, as well.
 
 ## M: Depending on what age you move here, your experience is drastically different. Would you say equally identify with black culture and Indonesian culture?
 
@@ -128,18 +124,18 @@ J: At various points of my life, I identity more as one than the other. It depen
 
 ## M: Has it ever come to a time where those two cultures conflict?
 
-J: I wouldn’t say so. Not specifically the cultures, but both sides of my family maybe. My paternal grandma lived with us for a while. There were some incidents, sometimes on a daily basis, between her and my mom. Part of it was a cultural difference, and part of it was the difference in their ages and their life experiences. I feel like family and in-law relationships aren’t always the best sometimes. So there’s that. I, personally, haven’t had any incidents where I felt the cultures conflicted. I’ve never had an internal dialogue, “Am I black or am I Asian?” I’ve always felt that I’m both. Sometimes I feel like I’m one more than the other.
+J: Not the cultures specifically, but both sides of my family maybe. My paternal grandma lived with us for a while. There were some incidents, sometimes on a daily basis, between my mom and her. Part of it was a cultural difference, and part of it was the difference in their ages and their life experiences. So there’s that. I personally haven’t had any incidents where I felt the cultures conflicted. I’ve never had an internal dialogue, “Am I black or am I Asian?” Sometimes I feel like I’m one more than the other, but I've always felt that I am both.
 
-## M: How’s your range of emotions with that type of situation? Do you usually welcome people who have ready questions or conversations about your identity? Or is there a point of a “hey guys, shut up” type of thing?
+## M: How’s your range of emotions with that type of situation? Do you usually welcome people who have ready questions or conversations about your identity?
 
-J: I am a little more impatient with people who are like “Oh what are you?”, because it’s a question you get a lot. It’s as if someone has a funny name, and people make a joke out of it. That person always hears that everywhere they go, the same joke over and over again. So, simple questions don’t get on my nerves, but, I mean, they are questions that I have to answer again and again. If people ask more in-depth questions or are more curious, I tend to welcome and appreciate that a bit more. It shows that they’re somewhat culturally aware. I mean, if people start asking me what I am, and then proceed to ask more questions, that’s definitely welcome as well. I found that a lot people don’t know that much about Indonesian culture. Many questions I get that are like, “oh so the language it’s Bahasa, right?” Indonesian, yeah, that’s the language.
+J: I am a little more impatient with people who ask “Oh what are you?”. It’s as if someone has a funny name, and people make a joke out of it. That person always hears that everywhere they go, the same joke over and over again. So, simple questions don’t get on my nerves, but, I mean, they are questions that I have to answer again and again. If people ask more in-depth questions or are more curious, I tend to welcome and appreciate that a bit more. It shows that they’re somewhat culturally aware. I mean, if people start asking me what I am, and then proceed to ask more questions, that’s definitely welcome as well. I found that a lot people don’t know that much about Indonesian culture. Many questions I get that are like, “oh so the language it’s Bahasa, right?” Indonesian, yeah, that’s the language.
 
 ## M: Would you ever want to move to Indonesia?
 
-J: I wouldn’t want to move there. But I know my mom has wanted to move back because that is her home. I’ve spent my entire life here in America. This is my home. I would visit Indonesia again but I don’t feel like I would invest a lot of my life in the country. It would be to see the people. I would go back in the next couple of years, either by myself or with my mom or with both my mom and dad, to visit family and to see other things in Indonesia, like Bali or Medan.
+J: I wouldn’t want to move there. I’ve spent my entire life here in America. This is my home. I would visit Indonesia again but I don’t feel like I would invest a lot of my life in the country. It would be to see the people. I would go back in the next couple of years, either by myself or with my mom or with both my mom and dad, to visit family and to see other things in Indonesia, like Bali or Medan.
 
-## M: Thinking inter-generationally, how would you communicate these things that you learned about yourself? Because we wonder about this, too, with our future kids and grandchildren, how much can we really pass on?
+## M: Thinking inter-generationally, how would you communicate these things that you learned about yourself? We wonder about this, too, about how much can we really pass on to our future kids and grandchildren.
 
-J: Yeah that’s something I’ve been thinking about, too. Indonesian is not my first language. I would not be able to teach my child Indonesian unless I was in an Indonesian community or if my mom lived close by and talked to my child a lot. I’m not sure, but I know that I want to expose my children and even my housemates to different cultures. It’s also an excuse to learn more Indonesian things. Like, hey, this is a part of my culture, I’m still learning about it and on my journey to learn more about it. I’m going to check out this place, I have an emotional cultural tie to this—do you all wanna come with me? Let’s go make a new experience and learn. That’s how I view it.
+J: Yeah that’s something I’ve been thinking about, too. For instance, Indonesian is not my first language. I would not be able to teach my child Indonesian unless I was in an Indonesian community or if my mom lived close by and talked to my child a lot. I’m not sure, but I know that I want to expose my children and even my housemates to different cultures. It’s also an excuse to learn more Indonesian things. Hey, this is a part of my culture, I’m still learning about it and on my journey to learn more about it. I’m going to check out this place, I have an emotional cultural tie to this—do you all wanna come with me? Let’s go make a new experience and learn. That’s how I view it.
 
 {{end_block}}
