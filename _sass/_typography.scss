@@ -1,20 +1,52 @@
-//Large Type Scale
-.f0 {
-  font-size: 4rem;
+//Heading
+.title {
+  font-family: "Zigzag-Rounded",serif;
+  font-size: 80px;
+  font-weight: 300;
+  letter-spacing: -0.03em;
+  color: $coralpink-high;
 }
-@media (min-width:30em){
-.f0-l {
-  font-size: 4rem;
+.title--0{
+  -webkit-font-feature-settings:'clig' 0 ;
+  -moz-font-feature-settings:'clig' 0 ;
+  -ms-font-feature-settings:'clig' 0 ;
+  -o-font-feature-settings:'clig' 0 ;
+  font-feature-settings:'clig' 0 ;
 }
+.title--titl{
+-webkit-font-feature-settings: 'clig' 1, 'titl' 1;
+-moz-font-feature-settings: 'clig' 1, 'titl' 1;
+-ms-font-feature-settings: 'clig' 1, 'titl' 1;
+-o-font-feature-settings: 'clig' 1, 'titl' 1;
+font-feature-settings: 'clig' 1, 'titl' 1;
 }
-.f00{
-  font-size: 10vh;
+.title--swh{
+-webkit-font-feature-settings: 'clig' 1,  'cswh' 1;
+-moz-font-feature-settings: 'clig' 1,  'cswh' 1;
+-ms-font-feature-settings: 'clig' 1,  'cswh' 1;
+-o-font-feature-settings: 'clig' 1, 'cswh' 1;
+font-feature-settings: 'clig' 1, 'cswh' 1;
+}
+.title--mix{
+-webkit-font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
+-moz-font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
+-ms-font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
+-o-font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
+font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
+}
+h1,h2,h3,h4,h5,p{
+  font-family: "Leitura",Times, serif;
 }
 
-//Large Measure
-.measure-xl {
-  max-width: 42rem;
+h1,h2,h3 {
+  font-size: 24px;
+  font-weight: normal;
+  color: $blu-high;
+  letter-spacing: -0.8px;
+
 }
-.lh-xl{
-  line-height: 1.9
+p{
+  font-size: 16px;
+  line-height:1.3;
+  color: #333;
 }
