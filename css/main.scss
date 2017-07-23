@@ -1,31 +1,9 @@
 ---
 ---
-
 //Import Files
 @import
   "variables.scss",
   "typography.scss",
   "typeface.scss",
-  "colors.scss";
-
-//image hover effect for title
-.img-hover img {
-top:20%;
-right:30%;
-display: none;
-}
-
-.img-hover:hover{
-  .img-holder {
-    display: block;
-  }
-  h1 {
-    -webkit-text-stroke: 2px #fff;
-    -moz-text-stroke: 2px #fff;
-    -ms-text-stroke: 2px #fff;
-    -o-text-stroke: 2px #fff;
-    text-stroke: 2px #fff;
-    color: transparent;
-  }
-}
-/*testing header css*/
+  "colors.scss",
+  "animation.scss";
