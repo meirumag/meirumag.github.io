@@ -1,5 +1,5 @@
 {% capture writing %}
-<div class="center ph2 ph0-ns mb3 measure-wide serif lh-title f5 f4-ns " markdown="1">
+<div class="center ph2 ph0-ns mb3 measure-wide body lh-title f5 f4-ns " markdown="1">
 {% endcapture %}
 
 {% capture image %}

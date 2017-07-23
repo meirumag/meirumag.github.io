@@ -1,20 +1,17 @@
 ---
-title: Jessica M
+title: Jessica M.
 date: 2017-05-21 00:10:00 Z
 permalink: "/jessica/"
 hero: jessica_hero.png
 layout: post
 ---
-
 {% include styles.md %}
-<!--The output for this page is title.hml idk why -->
-<!-- oh its because of config doh, fix that last -->
 
 {{ writing }}
 
 ## Meiru Mag: Hey Jessica. Let’s have you start by telling us a bit about yourself and where you grew up.
 
-Jessica: My name is Jessica. I’m 24 years old, and I’ve been out of college for about two years now. I’m an engineer here in the South Bay. I like to do artsy things, and I’m interested in languages. I like cultures. I grew up in Southern California and spent most of my life there. I went to college here in the South Bay and went back home for a year after college. 
+Jessica: My name is Jessica. I’m 24 years old, and I’ve been out of college for about two years now. I’m an engineer here in the South Bay. I like to do artsy things, and I’m interested in languages. I like cultures. I grew up in Southern California and spent most of my life there. I went to college here in the South Bay and went back home for a year after college.
 
 ## M: How do you identify in terms of ethnicity?
 
@@ -32,12 +29,12 @@ Is your mom a “tiger mom”?
 
 ## M: How have those conversations felt for you, now and beforehand?
 
-J:  When I was growing up, people always thought it was a cool thing, like I had the best of both worlds. 
+J:  When I was growing up, people always thought it was a cool thing, like I had the best of both worlds.
 
-You’re really smart, you got that from your Asian side. 
-You do sports like track, it makes sense because you’re black, too. 
+You’re really smart, you got that from your Asian side.
+You do sports like track, it makes sense because you’re black, too.
 
-And I roll with it, but it’s not why I’m doing those things. Those qualities are not necessarily related to race at all. But people otherwise  seem to react pretty positively to me being mixed race. 
+And I roll with it, but it’s not why I’m doing those things. Those qualities are not necessarily related to race at all. But people otherwise  seem to react pretty positively to me being mixed race.
 
 ## M: Did those comments come from peers or adults?
 

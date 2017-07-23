@@ -1,6 +1,8 @@
 ---
+# Site Settings
 title: Meiru Mag
 timezone: UTC
+description: A zine about asian-americans growing up in western culture
 collections:
   posts:
     title: Posts
@@ -9,19 +11,23 @@ collections:
     title: Uploads
     output: true
 version: v1
-description: A zine about asian-americans growing up in western culture
-baseurl: 
-url: 
+baseurl: ""
+url:
+permalink: "/title"
+
+# Social
 twitter_username: meirumag
 github_username: jekyll
 email: hi@meirumag.com
+
+# Build Settings
 markdown: kramdown
-permalink: "/title"
+sass:
+  style: compressed
+
+# Excludes
 exclude:
 - node_modules
 - gulpfile.js
 - Gemfile
 - Gemfile.lock
-jekyll_get:
-  data: team
-  json: https://18f.gsa.gov/hub/api/team/
