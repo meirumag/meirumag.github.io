@@ -5,6 +5,7 @@ permalink: "/jessica/"
 hero: jessica_hero.png
 layout: post
 ---
+
 {% include styles.md %}
 
 {{ writing }}
