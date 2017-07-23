@@ -1,7 +1,7 @@
 //Hover Effects
 .img-hover img {
 top:20%;
-right:30%;
+right:0;
 display: none;
 }
 
@@ -10,11 +10,11 @@ display: none;
     display: block;
   }
   h1 {
-    -webkit-text-stroke: 2px #fff;
-    -moz-text-stroke: 2px #fff;
-    -ms-text-stroke: 2px #fff;
-    -o-text-stroke: 2px #fff;
-    text-stroke: 2px #fff;
+    -webkit-text-stroke: 2px $coralpink-high;
+    -moz-text-stroke: 2px $coralpink-high;
+    -ms-text-stroke: 2px $coralpink-high;
+    -o-text-stroke: 2px $coralpink-high;
+    text-stroke: 2px $coralpink-high;
     color: transparent;
   }
 }
@@ -22,7 +22,7 @@ display: none;
 @keyframes scale-up{
   from{
     opacity: 0;
-    -webkit-transform:translate(0px, 100px) scale(1.05);
+    -webkit-transform:translate(0px, 100px) scale(1.1);
   }
   to{
     opacity: 1;

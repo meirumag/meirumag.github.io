@@ -1,3 +1,4 @@
+
 // Colors
 @each $id, $color in $color-palette {
   .#{$id} { color: nth($color, 1); }
