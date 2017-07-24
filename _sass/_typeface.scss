@@ -6,6 +6,7 @@
   url('/assets/fonts/Zigzag-Rounded.woff2') format('woff2'),
   url('/assets/fonts/Zigzag-Rounded.woff') format('woff'),
   url('/assets/fonts/Zigzag-Rounded.ttf') format('truetype');
+  font-weight:normal;
   }
 
 //Leitura-Regular
@@ -16,4 +17,16 @@
   url('/assets/fonts/LeituraNews-Roman1.woff2') format('woff2'),
   url('/assets/fonts/LeituraNews-Roman1.woff') format('woff'),
   url('/assets/fonts/LeituraNews-Roman1.ttf') format('truetype');
+  font-weight:normal;
   }
+
+//Leitura-Medium
+  @font-face {
+    font-family: 'Leitura';
+    src: url('/assets/fonts/LeituraNews-Roman2.eot');
+    src: url('/assets/fonts/LeituraNews-Roman2.eot?#iefix') format('embedded-opentype'),
+    url('/assets/fonts/LeituraNews-Roman2.woff2') format('woff2'),
+    url('/assets/fonts/LeituraNews-Roman2.woff') format('woff'),
+    url('/assets/fonts/LeituraNews-Roman2.ttf') format('truetype');
+    font-weight:600;
+    }

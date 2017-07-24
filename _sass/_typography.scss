@@ -34,18 +34,25 @@ font-feature-settings: 'clig' 1, 'cswh' 1;
 -o-font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
 font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
 }
-h1,h2,h3,h4,h5,p{
+h2,h3,h4,h5,p{
   font-family: "Leitura",Times, serif;
 }
 
-h1,h2,h3 {
-  font-size: 16px;
-  font-weight: bold;
-  color: $blu-high;
-
+h2,h3 {
+  font-size: 18px;
+  font-weight: 600;
+  color: #253D66;
+  line-height:24px;
+  margin-top: 0;
+  margin-bottom: 27px;
 }
 p{
-  font-size: 16px;
-  line-height:1.5;
-  color: #333;
+  font-size: 18px;
+  line-height: 27px;
+
+  margin-bottom: 27px;
+  color: $blu-high;
+}
+blockquote p {
+  font-style: italic;
 }
