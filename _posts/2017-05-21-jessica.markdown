@@ -86,12 +86,13 @@ My dad would actually just take care of most of those things though, so it was h
  That is one of the things that I liked about Indonesia. They celebrated differences. If you were different, they wouldn’t say “oh that’s bad.” They would be like “oh that’s pretty cool.” When I was in China, I got a lot of stares, but maybe it’s because of the area that I was in. I was in Shanghai and Beijing, big populous cities, but for most of the time I was in southern China. I just generally felt like I was under a microscope or a zoo exhibit. I was just walking beside a lady, and she took a video of me. I didn’t get that vibe when I was in Indonesia. I think people will stare anywhere, but in general, maybe it is how I interpret the culture as well. In terms of my family noticing that I’m not a native Indonesian nor Chinese and that I’m part black, it wasn’t even a thing. In a lot of families, they care about marrying within your culture, within your race, but it was really nice to know that my family just cared whether I was a good person. My hair is curly, so people are like “oh my gosh, I’ve never seen hair like this,” and they would be like, that’s so cool!”
 
 ##  How was the experience when you went to Indonesia and met your Indonesian family?
-{{end_block}}
-{{image}}
-<img class="w-80" src="/uploads/jessica_grass.jpg" alt="jessica on grass">
-{{end_block}}
-{{writing}}
+
  It was pretty cool. I went with my mom. My mom is not as easygoing as most people, so my initial assumption was that my family was like her. But when I got there, they were all super chill, way chiller than my mom. I had to reconfigure what I thought being Indonesian was. I had to separate my mom and her personality from the entire culture.
+ {{end_block}}
+ {{image}}
+ <img class="w-80" src="/uploads/jessica_ind.jpg" alt="jessica on moto">
+ {{end_block}}
+ {{writing}}
 
 I found that, in Indonesia, it’s like you’re in a giant community. They’re very nationalistic, and if not nationalistic, very proud of whichever island they come from. There are 17,000 islands, but not all of them are inhabited or have their own culture. But there are various islands, like Java, where the capital city of Indonesia is, Jakarta. There’s Medan, there’s a very distinct culture there as well. Manado, Surabaya, all of these places have a distinct culture based on whether they were colonized by the Dutch, Spanish, or French. So it was really interesting to see that. A lot of people in Jakarta are Chinese Indonesian so you have Chinese Indonesian people, you have people from Manado, from Surabaya, from all the other islands. So I guess, Indonesia is divided but overall I felt like it was a community. You can just hail someone down and they’ll help you. The driving is crazy, because the infrastructure is not all that great and it’s still a developing country. People are rude when they drive but I didn’t feel like they were rude to be rude. They genuinely care if they hit you or not. If you’re crossing the street, you’re like, hey i’m crossing, and they’ll stop. They’re really thoughtful in that way.
 
