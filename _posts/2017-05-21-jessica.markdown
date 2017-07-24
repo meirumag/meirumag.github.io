@@ -120,7 +120,7 @@ I found that, in Indonesia, it’s like you’re in a giant community. They’re
 
  And it makes a difference depending on whether you know the language of that culture or country, as well.
 
-##  Depending on what age you move here, your experience is drastically different. Would you say equally identify with black culture and Indonesian culture?
+##  Depending on what age you move here, your experience is drastically different. Do you equally identify with black culture and Indonesian culture?
 
  At various points of my life, I identity more as one than the other. It depends on my experience really. If I don’t spend much time with my Indonesian family, then I feel like, in America, people perceive me as black. I just identify as black. When I fill out forms, I pick “black” if it says one. If you can pick more than one, then I pick Asian as well. But as I spend more time with my mom and her family, then I identify more with being Indonesian or Asian. But I’ve never felt like I’m more Asian than Black for some reason. I’ve always felt either more Black than Asian or equally so. I think it’s that’s just because in America, I look black. Like if someone just looked at me, they wouldn’t guess that I’m Asian, most of time. That plays a role.
 
@@ -140,4 +140,7 @@ I found that, in Indonesia, it’s like you’re in a giant community. They’re
 
  Yeah that’s something I’ve been thinking about, too. For instance, Indonesian is not my first language. I would not be able to teach my child Indonesian unless I was in an Indonesian community or if my mom lived close by and talked to my child a lot. I’m not sure, but I know that I want to expose my children and even my housemates to different cultures. It’s also an excuse to learn more Indonesian things. Hey, this is a part of my culture, I’m still learning about it and on my journey to learn more about it. I’m going to check out this place, I have an emotional cultural tie to this—do you all wanna come with me? Let’s go make a new experience and learn. That’s how I view it.
 
+{{image__flex}}
+ <img class="w-50" src="/uploads/jessica_outside.jpg" alt="jessica standing outside"/>
+ <img class="w-50" src="/uploads/jessica_book.jpg" alt="jessica sitting inside" />
 {{end_block}}

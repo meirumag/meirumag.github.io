@@ -3,8 +3,12 @@
 {% endcapture %}
 
 {% capture image %}
-<div class="mw8 center tc" markdown="1">
+<div class="mw8 center tc mv4">
 {% endcapture %}
+
+{%capture image__flex %}
+<div class="flex sm-row justify-around items-start mv4">
+{%endcapture%}
 
 {% capture end_block %}
 </div>
