@@ -19,6 +19,16 @@
   url('/assets/fonts/LeituraNews-Roman1.ttf') format('truetype');
   font-weight:normal;
   }
+@font-face {
+  font-family: 'Leitura';
+  src: url('/assets/fonts/LeituraNews-Italic1.eot');
+  src: url('/assets/fonts/LeituraNews-Italic1.eot?#iefix') format('embedded-opentype'),
+  url('/assets/fonts/LeituraNews-Italic1.woff2') format('woff2'),
+  url('/assets/fonts/LeituraNews-Italic1.woff') format('woff'),
+  url('/assets/fonts/LeituraNews-Italic1.ttf') format('truetype');
+  font-style:italic;
+  }
+
 
 //Leitura-Medium
   @font-face {
