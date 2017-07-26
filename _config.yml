@@ -1,4 +1,5 @@
 ---
+#Site settings
 title: Meiru Mag
 timezone: UTC
 collections:
@@ -9,16 +10,22 @@ collections:
     title: Uploads
     output: true
 description: A zine about asian-americans growing up in western culture
-version: v1
-baseurl: ''
-url: 
+version: "v1"
+baseurl: ""
+url: ""
 permalink: "/title"
+
+#Social links
 twitter_username: meirumag
 github_username: jekyll
 email: hi@meirumag.com
+
+#Build settings
 markdown: kramdown
 sass:
   style: compressed
+
+#Exclude this stuff
 exclude:
 - node_modules
 - gulpfile.js
