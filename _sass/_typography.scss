@@ -1,11 +1,22 @@
 //Heading
 .title {
   font-family: "Zigzag-Rounded",serif;
-  font-size: 80px;
-  font-weight: 300;
   letter-spacing: -0.03em;
   color: $coralpink-high;
+  font-kerning: normal;
+  font-variant-ligatures: common-ligatures contextual;
+  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
+  -ms-font-feature-settings: "kern", "liga", "clig", "calt";
+  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+  font-feature-settings: "kern", "liga", "clig", "calt";
 }
+@media(min-width: 30rem) {
+  .f0-ns{
+    font-size: 100px;
+    font-weight:normal;
+  }
+}
+
 .title--0{
   -webkit-font-feature-settings:'clig' 0 ;
   -moz-font-feature-settings:'clig' 0 ;
@@ -33,6 +44,19 @@ font-feature-settings: 'clig' 1, 'cswh' 1;
 -ms-font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
 -o-font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
 font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
+}
+.title--test{
+  -webkit-font-feature-settings:'ss02' ;
+  -moz-font-feature-settings:'ss02' ;
+  -ms-font-feature-settings:'ss02' ;
+  -o-font-feature-settings:'ss02' ;
+  font-feature-settings:'ss02' ;
+}
+.tnum{
+  font-variant-numeric: proportional-nums;
+  -moz-font-feature-settings: "tnum";
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
 }
 h2,h3,h4,h5,p{
   font-family: "Leitura",Times, serif;
