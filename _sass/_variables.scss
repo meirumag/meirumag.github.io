@@ -2,13 +2,15 @@
 //Color Palette
 $coralpink: #FD809B;
   $coralpink-high: #F1335E;
+  $coralpink-mid: #FC567A;
   $coralpink-low: #fAC8D2;
 
-$blu: #249CDF;
-  $blu-high: #1E4487;
+$blu: #9691F2;
+  $blu-high: #302AA8;
+  $blu-mid: #3F38DE;
   $blu-low: #DFF6FE;
 
 
 $color-palette: (
-  coralpink:($coralpink, $coralpink-high, $coralpink-low),
-  blu:($blu, $blu-high, $blu-low),);
+  coralpink:($coralpink, $coralpink-high,$coralpink-mid, $coralpink-low),
+  blu:($blu, $blu-high, $blu-mid, $blu-low),);
