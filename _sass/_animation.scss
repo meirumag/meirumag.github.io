@@ -1,7 +1,9 @@
 //Hover Effects
 .img-hover img {
 top:20%;
-right:0;
+-webkit-transform: rotate(7deg);
+-ms-transform: rotate(7deg);
+transform: rotate(7deg);
 display: none;
 }
 
