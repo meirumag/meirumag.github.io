@@ -1,6 +1,6 @@
 //Hover Effects
 .img-hover img {
-top:20%;
+bottom:10%;
 -webkit-transform: rotate(7deg);
 -ms-transform: rotate(7deg);
 transform: rotate(7deg);
@@ -10,13 +10,14 @@ display: none;
 .img-hover:hover{
   .img-holder {
     display: block;
+    opacity: 0.4;
   }
-  h2 {
-    -webkit-text-stroke: 4px $coralpink-high;
-    -moz-text-stroke: 4px $coralpink-high;
-    -ms-text-stroke: 4px $coralpink-high;
-    -o-text-stroke: 4px $coralpink-high;
-    text-stroke: 4px $coralpink-high;
+  h1 {
+    -webkit-text-stroke: 2px $coralpink-mid;
+    -moz-text-stroke: 2px $coralpink-mid;
+    -ms-text-stroke: 2px $coralpink-mid;
+    -o-text-stroke: 2px $coralpink-mid;
+    text-stroke: 2px $coralpink-mid;
     color: transparent;
   }
 }
@@ -48,7 +49,7 @@ display: none;
   }
 
   to {
-    opacity: 1;
+    opacity: 0.4;
   }
 }
 @keyframes fade-up {
@@ -63,7 +64,7 @@ display: none;
 }
 
 .animate{
-  animation-duration: 2s;
+  animation-duration: 1s;
   animation-timing-function: ease;
 }
 .animate__scale-left{

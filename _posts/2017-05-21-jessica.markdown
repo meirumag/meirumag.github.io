@@ -1,12 +1,18 @@
 ---
-title: Jessica M.
 date: 2017-05-21 00:10:00 Z
 permalink: "/jessica/"
-hero: jessica_hero.png
+hero: jessica_hero.jpg
 layout: post
 ---
 
 {% include styles.md %}
+<div class="tc pv5">
+{%include jessica__title.html%}
+</div>
+
+{{image}}
+<img class="w-100 w-80-ns pb5" src="../uploads/{{ page.hero }}" alt="hero image">
+{{end_block}}
 
 {{ writing }}
 
