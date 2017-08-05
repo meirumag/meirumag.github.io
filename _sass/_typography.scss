@@ -70,6 +70,8 @@ font-feature-settings: 'clig' 0, 'titl' 1, 'cswh' 1;
   -webkit-font-feature-settings: "tnum";
   font-feature-settings: "tnum";
 }
+
+
 h2,h3,h4,h5,p{
   font-family: "Leitura",Times, serif;
 }
@@ -82,6 +84,15 @@ h2,h3 {
   line-height:24px;
   margin-top: 0;
   margin-bottom: 27px;
+}
+
+article > h2:before {
+  content: "•";
+  color: $coralpink;
+  font-size: 50px;
+  vertical-align: text-bottom;
+  margin-left: -20px;
+
 }
 p{
   font-size: 18px;

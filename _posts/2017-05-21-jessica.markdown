@@ -29,10 +29,6 @@ My mom is ethnically Chinese and culturally Indonesian. My dad is African Americ
 > How did they meet? Is your mom a “tiger mom”?
 
 
-{{end_block}}
-
-{{writing}}
-
 ##  How have those conversations felt for you, now and beforehand?
 
 When I was growing up, people always thought it was a cool thing, like I had the best of both worlds.
@@ -81,10 +77,12 @@ My dad would actually just take care of most of those things though, so it was h
 ##  Going back to your conversations with peers about your ethnic background, when was the first instance that you recognized your ethnicity as distinct from other people?
 
  I’d say maybe middle school. Before that, it was normal for me to move throughout these spheres: my dad’s side of the family, people from school, people from church, and my mom’s friends. It was just normal. And then, in middle school, I saw other people who were mixed race. I was like “ooh, that’s like…me.” They were mixed with different ethnicities and, more specifically, different types of Asians. Saying “half-Asian” was not enough. So I’d say “Oh yeah, I’m half-Indonesian.” And then I think I had a conversation with my mom at one point where I was telling her about this. And she was like “oh, we’re Chinese, too” and I was like “wait what?” I never registered that my mom was ethnically Chinese. I thought she was an Indonesian born in Indonesia. So it was middle school that I found out that my mom was ethnically Chinese.
-{{end_block}}
+{{end_writing}}
+
 {{image}}
 <img class="w-80" src="/uploads/jessica_grass.jpg" alt="jessica on grass">
 {{end_block}}
+
 {{writing}}
 
 ##  Yeah, it’s complex. My aunt is Indonesian, and I didn’t even know Indonesia was a country until my mom had to explain it to me. I had thought that Indonesia was a part of China because she’s my aunt. She lives in Hong Kong now, and gets a lot of discrimination because her accent stands out.
@@ -94,7 +92,7 @@ My dad would actually just take care of most of those things though, so it was h
 ##  How was the experience when you went to Indonesia and met your Indonesian family?
 
  It was pretty cool. I went with my mom. My mom is not as easygoing as most people, so my initial assumption was that my family was like her. But when I got there, they were all super chill, way chiller than my mom. I had to reconfigure what I thought being Indonesian was. I had to separate my mom and her personality from the entire culture.
- {{end_block}}
+ {{end_writing}}
  {{image}}
  <img class="w-80" src="/uploads/jessica_ind.jpg" alt="jessica on moto">
  {{end_block}}

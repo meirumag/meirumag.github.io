@@ -1,5 +1,5 @@
 {% capture writing %}
-<div class="center ph2 ph0-ns mb3 measure-wide body lh-title f5 f4-ns " markdown="1">
+<article class="center ph2 ph0-ns mb3 measure-wide body lh-title f5 f4-ns" markdown="1">
 {% endcapture %}
 
 {% capture image %}
@@ -14,6 +14,6 @@
 </div>
 {% endcapture %}
 
-<!-- {%capture jessica__title%}
-
-{%endcapture%} -->
+{%capture end_writing %}
+</article>
+{% endcapture %}
