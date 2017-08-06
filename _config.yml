@@ -12,7 +12,7 @@ collections:
 description: A zine about asian-americans growing up in western culture
 version: "v1"
 baseurl: ""
-url: ""
+url: "http://meirumag.com"
 permalink: "/title"
 
 #Social links
