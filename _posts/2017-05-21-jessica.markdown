@@ -1,8 +1,11 @@
 ---
 date: 2017-05-21 00:10:00 Z
 permalink: "/jessica/"
-hero: jessica_hero.jpg
 layout: post
+hero: jessica_hero.jpg
+social_image: jessica_social.jpg
+title: "Meiru Mag | Jessica"
+description: "A conversation with Jessica M."
 ---
 
 {% include styles.md %}
